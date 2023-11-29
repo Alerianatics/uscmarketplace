@@ -1,2 +1,2 @@
-# uscmarketplace
-CPE2102L USC MARKETPLACE
+# USC Marketplace CPE2102L
+Things to do:
